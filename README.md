@@ -1,7 +1,7 @@
 # inference-tutorials-generic
 
 
-# **NOTE**: Tutorials exist on branches according to the targeted OpenVINO™ toolkit release.  The "master" branch, specifically this file, is only used for pointing to the different versions of the tutorials.
+# **NOTE**: Tutorials exist on branches according to the targeted Intel® Distribution of OpenVINO™ toolkit release.  The "master" branch, specifically this file, is only used for pointing to the different versions of the tutorials.
 
 # Branches
 ## Version 2018 R3.0
